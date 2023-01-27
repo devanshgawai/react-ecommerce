@@ -1,0 +1,13 @@
+.cartBtn {
+  background: var(--indigo-dye);
+  color: white;
+  border: 1px solid var(--clrWhite);
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+.badge {
+  background: black;
+  border-radius: 10px;
+  padding: 5px;
+}

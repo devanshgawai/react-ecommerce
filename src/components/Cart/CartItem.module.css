@@ -1,0 +1,14 @@
+.cartItem {
+  margin-left: 1rem;
+}
+.underline {
+  border-bottom: 2px solid var(--maximum-blue);
+  margin-top: 2rem;
+}
+.quantity {
+  margin-right: 11%;
+}
+.cart-utility {
+  padding: 0;
+  margin: 0;
+}
